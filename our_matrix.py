@@ -1,8 +1,8 @@
 import collections 
 from sklearn.preprocessing import normalize
 
-def get_human_action_vectors(cdata):
-    human_action_vectors = np.zeros(shape=(len(cdata["users"]), 2))
+def get_human_action_vectors(cdata, k_classes):
+    human_action_vectors = np.zeros(shape=(len(cdata["users"]), k_classes))
     for i, user in enumerate(cdata["users"]):
         cur_dict = dict(collections.Counter(cdata['user_data'][user]['y']))
 
