@@ -41,6 +41,7 @@ Why the global model is better in comparison to the personalized model and FMTL 
 Human data is more iid distributed, while Vehichle Sensor data is highly skewed:
 
 | Human Activity| Vehicle Sensor dataset |
+| (random feature distribution)| (random feature distribution) |
 | ------------- | ------------- |
 | <img src="pics/o_dist_hum.png" alt="drawing" width="350" height ="200"/>  | <img src="pics/o_dist_sens.png" alt="drawing" width="350" height ="200"/>  |
 
