@@ -33,7 +33,7 @@
 
 ### New matrix initialization results
 
-<img src="pics/HUMAN_ACTIVITY_eta_test_convex_fedunewmat-1.png" alt="drawing" width="350" height ="200"/>   <img src="pics/HUMAN_ACTIVITY_eta_test_convex_mocha_newmat-1.png" alt="drawing" width="350" height ="200"/>
+<img src="pics/HUMAN_ACTIVITY_eta_test_convex_fedunewmat-1.png" alt="drawing" width="300" height ="250"/>   <img src="pics/HUMAN_ACTIVITY_eta_test_convex_mocha_newmat-1.png" alt="drawing" width="300" height ="250"/>
 
 
 
