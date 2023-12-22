@@ -30,3 +30,12 @@
 ### Plots comparison
 
 <img src="pics/o_dist_hum.png" alt="drawing" width="350" height ="200"/>   <img src="pics/o_dist_sens.png" alt="drawing" width="350" height ="200"/>
+
+### New matrix initialization results
+
+<img src="pics/HUMAN_ACTIVITY_eta_test_convex_fedunewmat-1.png" alt="drawing" width="350" height ="200"/>   <img src="pics/HUMAN_ACTIVITY_eta_test_convex_mocha_newmat-1.png" alt="drawing" width="350" height ="200"/>
+
+
+
+
+
