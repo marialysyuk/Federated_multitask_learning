@@ -40,8 +40,11 @@ In this repository are presented replication and new results of two articles:
 Why the global model is better in comparison to the personalized model and FMTL framework?
 Human data is more iid distributed, while Vehichle Sensor data is highly skewed:
 
-Distribution of the random feature for the Human Activity dataset     Distribution of the random feature for the Vehicle Sensor dataset
-<img src="pics/o_dist_hum.png" alt="drawing" width="350" height ="200"/>   <img src="pics/o_dist_sens.png" alt="drawing" width="350" height ="200"/>
+Distribution of the random feature for the Human Activity dataset     
+<img src="pics/o_dist_hum.png" alt="drawing" width="350" height ="200"/>
+
+Distribution of the random feature for the Vehicle Sensor dataset
+<img src="pics/o_dist_sens.png" alt="drawing" width="350" height ="200"/>
 
 ### New matrix initialization results
 
@@ -51,7 +54,7 @@ To improve the results we suggest an initialization matrix of similarity based o
 2. Normalize it: {0 : 0.27,5 : 0.14,4 : 0.15,2 : 0.14,3 : 0.13,1 : 0.15}
 3. Calculate cosine similarity between vectors of the tasks → obtain α_{k,l}
 
-<img src="pics/HUMAN_ACTIVITY_eta_test_convex_fedunewmat-1.png" alt="drawing" width="300" height ="250"/>   <img src="pics/HUMAN_ACTIVITY_eta_test_convex_mocha_newmat-1.png" alt="drawing" width="300" height ="250"/>
+<img src="pics/HUMAN_ACTIVITY_eta_test_convex_fedunewmat-1.png" alt="drawing" width="250" height ="250"/>   <img src="pics/HUMAN_ACTIVITY_eta_test_convex_mocha_newmat-1.png" alt="drawing" width="250" height ="250"/>
 
 
 
