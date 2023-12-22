@@ -10,4 +10,4 @@
 
 
 #### Detection of the center of the cells
-<img src="pics/HUMAN_ACTIVITY_eta_test_convex-1.png" alt="drawing" width="200" height ="200"/>
+<img src="pics/HUMAN_ACTIVITY_eta_test_convex-1.png" alt="drawing" width="500" height ="500"/>
