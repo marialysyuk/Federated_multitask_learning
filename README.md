@@ -29,4 +29,4 @@
 
 ### Plots comparison
 
-<img src="pics/o_dist_hum.png" alt="drawing" width="300" height ="300"/>   <img src="pics/o_dist_sens.png" alt="drawing" width="300" height ="300"/>
+<img src="pics/o_dist_hum.png" alt="drawing" width="400" height ="200"/>   <img src="pics/o_dist_sens.png" alt="drawing" width="400" height ="200"/>
