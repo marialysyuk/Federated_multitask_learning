@@ -10,7 +10,5 @@
 
 
 #### Detection of the center of the cells
-<img src="HUMAN_ACTIVITY_eta_test_convex.pdf" alt="drawing" width="700" height ="300"/>
+<iframe src="HUMAN_ACTIVITY_eta_test_convex.pdf" width="100%" height="500" frameborder="0" />
 
-#### Colour masks
-<img src="HUMAN_ACTIVITY_eta_train_convex.pdf" alt="drawing" width="700" height ="300"/>
